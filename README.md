@@ -1,2 +1,1 @@
-# goodshares
-forpractice
+angular.module("directives",[]);
